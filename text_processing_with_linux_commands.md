@@ -49,24 +49,24 @@ Correct screenshot should contain your github username in the shell, a command a
 
 ### 6. How many unique users are in app_small.log?
 
-<img width="1920" height="1080" alt="image" src="6-take-two.png" />
+<img width="1920" height="1080" alt="image" src="6.png" />
 
 **Explanation** 
 
 ### 7. Which status code appears most often in access_medium.log? 
 
-<img width="1920" height="1080" alt="image" src="7-take-two.png" />
+<img width="1920" height="1080" alt="image" src="7.png" />
 
 **Explanation** Write the explanation why the specific command was used.
 
 ### 8. What is the top 3 most common modules in app_small.log?
 
-<img width="1920" height="1080" alt="image" src="8-take-two.png" />
+<img width="1920" height="1080" alt="image" src="8.png" />
 
 **Explanation** Write the explanation why the specific command was used.
 
 ### 9. Which task appears most often in system_small.log?
 
-<img width="1920" height="1080" alt="image" src="9-take-two.png" />
+<img width="1920" height="1080" alt="image" src="9.png" />
 
 **Explanation** Write the explanation why the specific command was used.
