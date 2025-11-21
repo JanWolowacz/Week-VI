@@ -31,24 +31,21 @@ Correct screenshot should contain your github username in the shell, a command a
 
 ### 3. How many occurrences of Smith are in fullnames_simple.txt?
 
-Put screenshot from Codespaces illustrating the result here.
-Correct screenshot should contain your github username in the shell, a command and the result.
+<img width="1920" height="1080" alt="image" src="2.png" />
 
-**Explanation** Write the explanation why the specific command was used.
+**Explanation** Grep command finds Smiths
 
 ### 4. Which age is most frequent in fullnames_with_age.txt?
 
-Put screenshot from Codespaces illustrating the result here.
-Correct screenshot should contain your github username in the shell, a command and the result.
+<img width="1920" height="1080" alt="image" src="4.png" />
 
-**Explanation** Write the explanation why the specific command was used.
+**Explanation** Cut everything but age, sort, count them all and sort again. The greatest value is visible at the bottom.
 
 ### 5. Show the 10 most common names (first+last) in fullnames_with_agetxt.
 
-Put screenshot from Codespaces illustrating the result here.
-Correct screenshot should contain your github username in the shell, a command and the result.
+<img width="1920" height="1080" alt="image" src="5-take-two.png" />
 
-**Explanation** Write the explanation why the specific command was used.
+**Explanation** Cut out age numbers, cut the word age itself. We don't need to cut off coma, because it is the same for every name,so we can just count unique lines, sort them in reverse and head -f10, so we show first 10 lines.
 
 ### 6. How many unique users are in app_small.log?
 
