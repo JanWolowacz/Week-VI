@@ -51,13 +51,13 @@ Correct screenshot should contain your github username in the shell, a command a
 
 <img width="1920" height="1080" alt="image" src="6.png" />
 
-**Explanation** 
+**Explanation** Cut out users, sorted displayed by uniq and then counted by wc
 
 ### 7. Which status code appears most often in access_medium.log? 
 
 <img width="1920" height="1080" alt="image" src="7.png" />
 
-**Explanation** Write the explanation why the specific command was used.
+**Explanation** Took out
 
 ### 8. What is the top 3 most common modules in app_small.log?
 
