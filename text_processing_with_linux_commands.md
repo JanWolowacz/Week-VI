@@ -18,7 +18,7 @@ Example: wc command is to count data in a given file. -l parameter is for counti
 <img width="1920" height="1080" alt="image" src="1.png" />
 
 
-**Explanation** Write the explanation why the specific command was used.
+**Explanation** Simply modified the command from above :D
 
 ---
 
