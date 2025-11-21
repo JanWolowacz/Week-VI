@@ -31,7 +31,7 @@ Correct screenshot should contain your github username in the shell, a command a
 
 ### 3. How many occurrences of Smith are in fullnames_simple.txt?
 
-<img width="1920" height="1080" alt="image" src="2.png" />
+<img width="1920" height="1080" alt="image" src="3.png" />
 
 **Explanation** Grep command finds Smiths
 
